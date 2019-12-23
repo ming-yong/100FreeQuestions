@@ -1,6 +1,6 @@
 # 100FreeQuestions
 
-A twitter bot that retweets #100FreeQuestions, which is intended to aggregate tech-related questions fom #freeCodeCamp, #100DaysOfCode, #CodeNewbie tech communities. You can view [the bot here]() or [my blog post about it here]().
+A twitter bot that retweets #100FreeQuestions, which is intended to aggregate tech-related questions fom #freeCodeCamp, #100DaysOfCode, #CodeNewbie tech communities. You can view [the bot here]() or [my blog post about it here](https://ming-yong.github.io/blog/build/2019/12/22/100FreeQuestions-twitter-bot/).
 
 ## Built with 
 - [Twitter API "twit"](https://github.com/ttezel/twit)
