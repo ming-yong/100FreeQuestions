@@ -1,6 +1,6 @@
 # Twitter Bot
 
-A twitter bot that retweets #commentMing & #proQuestions based on ["15: Twitter Bot Tutorial - Node.js and Processing" video series by theCodingTrain](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV).
+A twitter bot that retweets #🤔 based on ["15: Twitter Bot Tutorial - Node.js and Processing" video series by theCodingTrain](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV).
 
 ## Built with
 
