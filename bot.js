@@ -3,7 +3,7 @@ var Twit = require('twit');
 var config = require("./config");
 var T = new Twit(config);
 
-var stream1 = T.stream('statuses/filter', { track: '#🤔'});
+var stream1 = T.stream('statuses/filter', { track: '#saveToBot'});
 
 stream.on('tweet', function (tweet) {
   T.post('statuses/retweet/:id', { id: tweet.id_str }, function (err, data, response) {
